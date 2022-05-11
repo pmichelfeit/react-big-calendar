@@ -1,14 +1,14 @@
 {
   "name": "react-big-calendar",
-  "version": "0.40.1",
-  "description": "Calendar! with events",
+  "version": "0.41",
+  "description": "Calendar with events",
   "author": {
-    "name": "Jason Quense",
-    "email": "monastic.panic@gmail.com"
+    "name": "Philipp Michelfeit",
+    "email": "philipp.michelfeit@capgemini.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jquense/react-big-calendar.git"
+    "url": "git+https://github.com/pmichelfeit/react-big-calendar.git"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -129,7 +129,7 @@
     "uncontrollable": "^7.2.1"
   },
   "bugs": {
-    "url": "https://github.com/jquense/react-big-calendar/issues"
+    "url": "https://github.com/pmichelfeit/react-big-calendar/issues"
   },
-  "homepage": "https://github.com/jquense/react-big-calendar#readme"
+  "homepage": "https://github.com/pmichelfeit/react-big-calendar#readme"
 }
