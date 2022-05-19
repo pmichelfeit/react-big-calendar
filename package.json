@@ -131,5 +131,6 @@
   "bugs": {
     "url": "https://github.com/pmichelfeit/react-big-calendar/issues"
   },
-  "homepage": "https://github.com/pmichelfeit/react-big-calendar#readme"
+  "homepage": "https://github.com/pmichelfeit/react-big-calendar#readme",
+  "packageManager": "yarn@3.2.1"
 }
