@@ -24,14 +24,14 @@
     }
   },
   "react-big-calendar.js": {
-    "bundled": 1727777,
-    "minified": 470614,
-    "gzipped": 144080
+    "bundled": 1727907,
+    "minified": 470646,
+    "gzipped": 144094
   },
   "react-big-calendar.min.js": {
-    "bundled": 293088,
-    "minified": 291546,
-    "gzipped": 91665
+    "bundled": 293120,
+    "minified": 291578,
+    "gzipped": 91679
   },
   "react-big-calendar.esm.js": {
     "bundled": 199404,
